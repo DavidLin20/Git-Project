@@ -11,6 +11,7 @@
 		63389BC72A4970F900813692 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63389BC62A4970F900813692 /* ContentView.swift */; };
 		63389BC92A4970FB00813692 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63389BC82A4970FB00813692 /* Assets.xcassets */; };
 		63389BCC2A4970FB00813692 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63389BCB2A4970FB00813692 /* Preview Assets.xcassets */; };
+		63389BD32A49732E00813692 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63389BD22A49732E00813692 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		63389BC62A4970F900813692 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		63389BC82A4970FB00813692 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63389BCB2A4970FB00813692 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63389BD22A49732E00813692 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				63389BC42A4970F900813692 /* Git_ProjectApp.swift */,
 				63389BC62A4970F900813692 /* ContentView.swift */,
+				63389BD22A49732E00813692 /* ModalView.swift */,
 				63389BC82A4970FB00813692 /* Assets.xcassets */,
 				63389BCA2A4970FB00813692 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63389BD32A49732E00813692 /* ModalView.swift in Sources */,
 				63389BC72A4970F900813692 /* ContentView.swift in Sources */,
 				63389BC52A4970F900813692 /* Git_ProjectApp.swift in Sources */,
 			);
